@@ -1,2 +1,2 @@
-<h1> Bitter Melon cures Diabetes! </h1>
+<h1> Bitter Melon cures Cancer! </h1>
 
